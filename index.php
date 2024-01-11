@@ -11,10 +11,5 @@
         <input type="text" name="year"><br>  
         <input type="submit"> 
     </form>
- 
-    <!--Checking Valid Year-->
-
-    <!--Logic for Animal-->
-        
 </body>
 </html>
